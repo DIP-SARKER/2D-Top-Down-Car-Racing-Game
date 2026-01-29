@@ -90,7 +90,6 @@ The project follows a modular design:
 - **Dip Sarker**
 - **Md. Sakib Khan**
 - **Mahadi Hasan**
-Department of CSE, DIU
 
 ---
 
