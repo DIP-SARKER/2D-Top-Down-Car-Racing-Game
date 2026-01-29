@@ -87,11 +87,10 @@ The project follows a modular design:
 ---
 
 ## 👨‍💻 Authors
-- **Dip Sarker** (ID: 221-15-5274)  
-- **Md. Sakib Khan** (ID: 221-15-5728)  
-- **Mahadi Hasan** (ID: 221-15-5305)  
-
-Supervised by: **Md Mahabul Alom Santo**, Lecturer, Dept. of CSE, DIU
+- **Dip Sarker**
+- **Md. Sakib Khan**
+- **Mahadi Hasan**
+Department of CSE, DIU
 
 ---
 
